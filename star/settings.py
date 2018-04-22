@@ -104,8 +104,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'star',  # 数据库名字，
         'HOST': '127.0.0.1',  # 数据库所在主机（公司中写真实主机地址）
-        'USER': 'root',  # 数据库登录用户名
-        'PASSWORD': 'root',  # 数据库登录密码,我自己修改了
+        'USER': 'root1234',  # 数据库登录用户名
+        'PASSWORD': 'root1234',  # 数据库登录密码,我自己修改了
         'CHARSET':'utf8',
         # 'PORT': '3306',  # 数据库端口
     }

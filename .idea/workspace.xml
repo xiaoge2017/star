@@ -2,10 +2,17 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/pro_db/views.py" line="127" />
-    <bookmark url="file://$PROJECT_DIR$/Tools/delFilesExcept.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/Tools/delFilesExcept.py" line="39" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a63a7d49-c8a3-43c7-8c57-3f5ceb537ba5" name="Default" comment="" />
+    <list default="true" id="a63a7d49-c8a3-43c7-8c57-3f5ceb537ba5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/see.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ef3a05c4-8867-4c97-a090-769e4d298e32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +33,7 @@
     <SUITE FILE_PATH="coverage/star$delMedia.coverage" NAME="delMedia Coverage Results" MODIFIED="1524361248070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$initApp.coverage" NAME="initApp Coverage Results" MODIFIED="1524406160968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$Test3_subprocess.coverage" NAME="Test3_subprocess Coverage Results" MODIFIED="1524400536263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/star$see.coverage" NAME="see Coverage Results" MODIFIED="1524415822830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/star$removeFiles_except.coverage" NAME="removeFiles_except Coverage Results" MODIFIED="1524313780612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$sysTest.coverage" NAME="sysTest Coverage Results" MODIFIED="1524395245197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$delDatabase.coverage" NAME="delDatabase Coverage Results" MODIFIED="1524388762120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
@@ -41,23 +49,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="star@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="star@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="star@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="star: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -67,7 +59,7 @@
     <favorites_list name="star" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,10 +109,12 @@
       <dir>C:\Users\xianmengxuanling\Desktop\star</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/file_db1/views.py" />
         <option value="$PROJECT_DIR$/file_db1/__init__.py" />
         <option value="$PROJECT_DIR$/file_db1/models.py" />
         <option value="$PROJECT_DIR$/file_db1/admin.py" />
@@ -163,7 +157,7 @@
         <option value="$PROJECT_DIR$/Tools/delMedia.py" />
         <option value="$PROJECT_DIR$/Tools/initApp1.py" />
         <option value="$PROJECT_DIR$/Tools/sysTest.py" />
-        <option value="$USER_HOME$/Desktop/sam.bat" />
+        <option value="$PROJECT_DIR$/../sam.bat" />
         <option value="$PROJECT_DIR$/Tools/Test3_subprocess.py" />
         <option value="$PROJECT_DIR$/opens.bat" />
         <option value="$PROJECT_DIR$/Tools/Test4_subprocess.py" />
@@ -171,6 +165,7 @@
         <option value="$PROJECT_DIR$/Tools/Test5_pexpect.py" />
         <option value="$PROJECT_DIR$/Tools/test.py" />
         <option value="$PROJECT_DIR$/Tools/initApp.py" />
+        <option value="$PROJECT_DIR$/see.py" />
       </list>
     </option>
   </component>
@@ -189,17 +184,21 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="726" />
-    <option name="y" value="401" />
-    <option name="width" value="1708" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1482" />
+    <option name="y" value="190" />
+    <option name="width" value="1175" />
     <option name="height" value="897" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,11 +206,14 @@
               <item name="star" type="b2602c69:ProjectViewProjectNode" />
               <item name="star" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="star" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,26 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.star">
-    <configuration name="Test3_subprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="star" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tools/Test3_subprocess.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.see">
     <configuration name="Test5_pexpect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="star" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,6 +315,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tools/initApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="see" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="star" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/see.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,18 +553,18 @@
     <list>
       <item itemvalue="Django server.star" />
       <item itemvalue="Python.initApp" />
-      <item itemvalue="Python.Test3_subprocess" />
       <item itemvalue="Python.Test5_pexpect" />
       <item itemvalue="Python.Test6" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.see" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.see" />
         <item itemvalue="Python.initApp" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Test5_pexpect" />
         <item itemvalue="Python.Test6" />
-        <item itemvalue="Python.Test3_subprocess" />
       </list>
     </recent_temporary>
   </component>
@@ -589,22 +591,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="726" y="401" width="1708" height="897" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1096" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32816228" />
-      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5110357" side_tool="true" weight="0.33288044" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.51161367" side_tool="true" weight="0.256447" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32904148" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="-128" y="558" width="1521" height="276" id="Run" order="11" sideWeight="0.4883863" weight="0.25641027" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49784017" weight="0.3190272" />
-      <window_info anchor="bottom" x="-128" y="558" width="1521" height="276" id="Run" order="11" sideWeight="0.48896435" weight="0.25894135" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4910243" visible="true" weight="0.3190272" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4953125" visible="true" weight="0.17726162" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4910243" visible="true" weight="0.32441473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4953125" visible="true" weight="0.12979233" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.18520783" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.055910543" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6819484" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5046875" side_tool="true" weight="0.11581469" />
-      <window_info id="Favorites" order="2" sideWeight="0.5057283" side_tool="true" weight="0.20410368" />
       <window_info anchor="bottom" auto_hide="true" id="Debug" order="2" weight="0.21316166" />
+      <window_info id="Favorites" order="2" sideWeight="0.5057283" side_tool="true" weight="0.20410368" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -612,30 +615,29 @@
       <window_info anchor="bottom" id="manage.py@star" order="10" sideWeight="0.495116" weight="0.3502052" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.6824147" />
       <window_info anchor="right" id="Data View" order="4" weight="0.36128777" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4942717" visible="true" weight="0.20506912" />
       <window_info anchor="bottom" x="-128" y="558" width="1521" height="276" id="Run" order="11" sideWeight="0.493895" visible="true" weight="0.25578406" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5057283" side_tool="true" weight="0.20410368" />
       <window_info anchor="right" id="Data View" order="4" weight="0.36128777" />
       <window_info id="Structure" order="1" weight="0.24950884" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32816228" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="manage.py@star" order="10" sideWeight="0.495116" weight="0.3502052" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49784017" weight="0.3200514" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.6824147" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.11443932" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4910243" weight="0.3200514" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5089757" side_tool="true" weight="0.39763778" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" auto_hide="true" id="Debug" order="2" weight="0.21002387" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" sideWeight="0.5057283" side_tool="true" weight="0.20410368" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49784017" weight="0.3200514" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +652,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/diedai/adminx.py" />
     <entry file="file://$PROJECT_DIR$/imgs_db/adminx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -677,13 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1617">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/star/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -810,9 +804,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tools/delMedia_dir.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7c24ad0f-7ee9-445b-a286-4584d18e9eae/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tools/delMedia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -837,13 +828,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/sam.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sam.bat" />
     <entry file="file://$PROJECT_DIR$/Tools/createMedia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -858,74 +843,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test1_sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test2_sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opens.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test4_subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test3_subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test6_bypassUAC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/Test5_pexpect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#79#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/Test1_sys.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/Test2_sys.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/Test4_subprocess.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/Test3_subprocess.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/Test6_bypassUAC.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/Test5_pexpect.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/test.py" />
     <entry file="file://$PROJECT_DIR$/Tools/initApp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="24" column="9" selection-start-line="24" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/star/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1134">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3549">
+          <caret line="169" column="18" lean-forward="true" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/see.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#78#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opens.bat">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
