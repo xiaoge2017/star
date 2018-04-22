@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改</title>
+    <script src="/static/js/jquery-1.8.3.min.js"></script>
+    <link rel="stylesheet" href="/static/css/star_base.css">
+</head>
+<body>
+
+<form action="edit_pro" method="POST" enctype="multipart/form-data">
+    <p><input type="text" name="table_which" value="pro_a" style="visibility:hidden;"></p>
+    <p><input type="text" name="table_which_id" value="5" style="visibility:hidden;"></p>
+    <label>项目名称<input type="text" name="name"></label>
+    <label>项目地址<input type="text" name="address"></label>
+    <label>项目图片<input type="file" name="img"></label>
+    <label>项目参与者<input type="text" name="partner"></label>
+    <label>项目开始时间<input type="date" name="timeS" onchange="upperCase(this.name)"></label>
+    <label>项目结束时间<input type="date" name="timeE" onchange="upperCase(this.name)"></label>
+    <label>项目简介<input type="text" name="brief"></label>
+    <label>项目技术点<input type="text" name="tech"></label>
+    <label>项目显示信息<input type="text" name="show"></label>
+    <label>项目SVN地址<input type="text" name="SVN"></label>
+    <label>项目GIT地址<input type="text" name="Git"></label>
+    <label>项目多图文件<input type="file" name="imgs" multiple=""></label>
+    <label>项目打包文件<input type="file" name="file"></label>
+    <button type="submit">提交</button>
+</form>
+<script>
+function upperCase(x) {
+    var y=document.getElementsByName(x)[0].value;
+    document.getElementsByName(x)[0].value=y.toUpperCase();
+    $("input[name='"+x+"']").attr('value',y)
+}
+</script>
+</body>
+</html>

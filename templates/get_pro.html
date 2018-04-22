@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>获得</title>
+    <script src="/static/js/jquery-1.8.3.min.js"></script>
+    <link rel="stylesheet" href="/static/css/star_base.css">
+</head>
+<body>
+<h2>获得数据</h2>
+<div id="getData">
+
+</div>
+<script>
+    $.ajax({
+        type: 'GET',
+        url: 'http://127.0.0.1:8222/get_pro_staff',
+        async: false,
+        contentType: 'application/json;charset=utf-8',
+
+        data: '{"name": "wyc", "pwd": "123456"}',
+        success: function (res) {
+            $('#getData').html(res);
+            {#            if(res.status=='0'){#}
+            {#                $('#getData').html(res.data)#}
+            {#            }else {#}
+            {#                $('#getData').html('不好意思，你的数据有问题！')#}
+            {#            }#}
+        }
+    });
+
+</script>
+</body>
+</html>

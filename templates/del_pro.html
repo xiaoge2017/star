@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>删除</title>
+    <script src="/static/js/jquery-1.8.3.min.js"></script>
+    <link rel="stylesheet" href="/static/css/star_base.css">
+</head>
+<body>
+<div id="getData">
+
+</div>
+<div>
+    <button onclick="del(this)" name="pro_a" value="2">删除一个a项目</button>
+</div>
+<script>
+    function del(e) {
+        {#        var table_which=$(e).attr("name");#}
+        {#        var table_which_id=$(e).attr("id");#}
+        $.ajax({
+            type: 'POST',
+            url: 'http://127.0.0.1:8222/del_pro',
+            async: true,
+            {#            contentType: 'application/json;charset=utf-8',#}
+            headers: {'Content-Type': 'application/json'},
+            data: JSON.stringify({
+                table_which: $(e).attr("name"),
+                table_which_id: $(e).val()
+            })
+        }).done(function (res) {
+            console.log(res)
+{#            if(res.status=='0'){#}
+{#                $('#getData').html(res.data)#}
+{#            }else {#}
+{#                $('#getData').html('不好意思，你的数据有问题！')#}
+{#            }#}
+        }).fail(function () {
+            alert("请求失败");
+        });
+    }
+</script>
+</body>
+</html>
