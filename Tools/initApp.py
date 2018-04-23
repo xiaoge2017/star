@@ -5,24 +5,23 @@ python调用Shell脚本，有两种方法：os.system(cmd)或os.popen(cmd),前�
 '''
 import os,sys,subprocess
 # os.system('date')#设置为GBK即可解决乱码问题
-my_file_ROOT = 'D:/star'
+my_file_ROOT = 'C:/Users/wyc/Desktop/star'
 operate0 = 'python manage.py migrate --fake-initial'
 operate1 = 'python manage.py makemigrations'
 operate2 = 'python manage.py migrate'
 operate3 = 'python manage.py createsuperuser'
 operate4 = 'manage.py createsuperuser'
 
-
-# os.chdir(my_file_ROOT)#切换工作目录
-os.chdir('C:/Users/xianmengxuanling')#切换管理员工作目录
 print(os.getcwd())
-# print(os.getcwd())
-# os.system(operate0)
-# os.system(operate1)
-# os.system(operate2)
+os.chdir(my_file_ROOT)#切换工作目录
+# os.chdir('C:/Users/wyc/Desktop/star')#切换管理员工作目录
+print(os.getcwd())
+os.system(operate0)
+os.system(operate1)
+os.system(operate2)
 
 # os.system('cmd')
-os.system(operate4)
+# os.system(operate4)
 
 
 

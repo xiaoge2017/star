@@ -6,7 +6,7 @@
 import os
 import os.path
 
-my_file_ROOT = 'D:/star'
+my_file_ROOT = 'C:/Users/wyc/Desktop/star'
 my_file_APP = ['file_db','files_db','img_db','imgs_db','pro_db','xadmin']
 my_file_migartions = 'migrations'
 my_file_init = '__init__.py'
@@ -33,10 +33,10 @@ def DeleteFiles(path,fileList):
                 os.remove(xlist)
 
 
-def DelFiles():
+def DelFiles(my_file_APP,my_file_migartions,undel_file_list):
     for i in my_file_APP:
         del_ROOT = my_file_ROOT + '/' + i + '/' + my_file_migartions
         DeleteFiles(del_ROOT, undel_file_list)
 
-DelFiles()
+DelFiles(my_file_APP,my_file_migartions,undel_file_list)
 print ('删除完了初始化的文件！')
