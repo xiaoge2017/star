@@ -5,10 +5,6 @@
 
 import os
 
-my_file_ROOT = 'D:/star'
-my_file_media = 'media'
-del_Media = my_file_ROOT + '/' + my_file_media
-
 def DeleteMedia(del_Media):
     for i in os.listdir(del_Media):
         del_dir = None
@@ -24,6 +20,3 @@ def DeleteMedia(del_Media):
                 del_dir_files = os.path.join(del_dir, j)
                 print(del_dir_files)
                 os.remove(del_dir_files)
-
-DeleteMedia(del_Media)
-print ('删除完了上传的图片和文件！')

@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/pro_db/views.py" line="127" />
-    <bookmark url="file://$PROJECT_DIR$/Tools/delFilesExcept.py" line="39" />
+    <bookmark url="file://$PROJECT_DIR$/pro_db/views.py" line="128" />
+    <bookmark url="file://$PROJECT_DIR$/Tools1_single/delFilesExcept.py" line="39" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a63a7d49-c8a3-43c7-8c57-3f5ceb537ba5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tools/createDatabase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7c24ad0f-7ee9-445b-a286-4584d18e9eae.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/star.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/star.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/shiyan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/delDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/delDatabase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/delFilesExcept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/delFilesExcept.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/initApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/initApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_db/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_db/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files_db/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/files_db/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_db/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/img_db/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs_db/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/imgs_db/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro_db/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_db/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xadmin/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/xadmin/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/basicSetting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/basicSetting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/createDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/createDatabase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/createMedia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/createMedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/delDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/delDatabase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/delMedia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/delMedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools2/initApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/initApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro_db/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_db/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/star/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,6 +33,7 @@
     <SUITE FILE_PATH="coverage/star$Test5_pexpect.coverage" NAME="Test5_pexpect Coverage Results" MODIFIED="1524404212222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$removeFiles.coverage" NAME="removeFiles Coverage Results" MODIFIED="1524310949739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$createMedia.coverage" NAME="createMedia Coverage Results" MODIFIED="1524362145173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/star$basicSetting.coverage" NAME="basicSetting Coverage Results" MODIFIED="1524456412032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools2" />
     <SUITE FILE_PATH="coverage/star$see.coverage" NAME="see Coverage Results" MODIFIED="1524415822830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/star$del_database.coverage" NAME="del_database Coverage Results" MODIFIED="1524316318296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/star$removeFiles_except.coverage" NAME="removeFiles_except Coverage Results" MODIFIED="1524313780612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
@@ -75,21 +70,30 @@
     <favorites_list name="star" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="initApp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tools/initApp.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/star/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-589">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="530">
+              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createDatabase.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tools/createDatabase.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pro_db/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+            <state relative-caret-position="168">
+              <caret line="58" column="35" lean-forward="true" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shiyan.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/shiyan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -101,8 +105,8 @@
       <list>
         <option value="package_json" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -150,15 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/file_db1/models.py" />
-        <option value="$PROJECT_DIR$/file_db1/admin.py" />
-        <option value="$PROJECT_DIR$/file_db1/adminx.py" />
-        <option value="$PROJECT_DIR$/diedai/admin.py" />
-        <option value="$PROJECT_DIR$/diedai/models.py" />
-        <option value="$PROJECT_DIR$/diedai/adminx.py" />
-        <option value="$PROJECT_DIR$/imgs_db/adminx.py" />
-        <option value="$PROJECT_DIR$/star/settings.py" />
-        <option value="$PROJECT_DIR$/star/adminx.py" />
         <option value="$PROJECT_DIR$/img_db/models.py" />
         <option value="$PROJECT_DIR$/files_db/models.py" />
         <option value="$PROJECT_DIR$/file_db/models.py" />
@@ -168,8 +163,6 @@
         <option value="$PROJECT_DIR$/xadmin/plugins/themes.py" />
         <option value="$PROJECT_DIR$/pro_db/models.py" />
         <option value="$PROJECT_DIR$/templates/get_pro.html" />
-        <option value="$PROJECT_DIR$/star/urls.py" />
-        <option value="$PROJECT_DIR$/pro_db/views.py" />
         <option value="$PROJECT_DIR$/Tools/remove+files.py" />
         <option value="$PROJECT_DIR$/file_db/migrations/ssss.txt" />
         <option value="$PROJECT_DIR$/pro_db/migrations/__init__.py" />
@@ -201,6 +194,17 @@
         <option value="$PROJECT_DIR$/Tools/createDatabase.py" />
         <option value="$PROJECT_DIR$/Tools/delDatabase.py" />
         <option value="$PROJECT_DIR$/Tools/delFilesExcept.py" />
+        <option value="$PROJECT_DIR$/Tools2/delMedia.py" />
+        <option value="$PROJECT_DIR$/Tools2/createMedia.py" />
+        <option value="$PROJECT_DIR$/Tools2/delDatabase.py" />
+        <option value="$PROJECT_DIR$/Tools2/createDatabase.py" />
+        <option value="$PROJECT_DIR$/Tools2/initApp.py" />
+        <option value="$PROJECT_DIR$/Tools2/basicSetting.py" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/star/settings.py" />
+        <option value="$PROJECT_DIR$/templates/shiyan.html" />
+        <option value="$PROJECT_DIR$/pro_db/views.py" />
+        <option value="$PROJECT_DIR$/star/urls.py" />
       </list>
     </option>
   </component>
@@ -220,10 +224,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="453" />
-    <option name="y" value="26" />
-    <option name="width" value="1471" />
-    <option name="height" value="1009" />
+    <option name="x" value="912" />
+    <option name="y" value="282" />
+    <option name="width" value="1709" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -233,6 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,13 +248,22 @@
             <path>
               <item name="star" type="b2602c69:ProjectViewProjectNode" />
               <item name="star" type="462c0819:PsiDirectoryNode" />
-              <item name="Tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="star" type="b2602c69:ProjectViewProjectNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="star" type="b2602c69:ProjectViewProjectNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,11 +288,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wyc\Desktop\star\templates" />
+      <recent name="C:\Users\wyc\Desktop\star" />
       <recent name="D:\star\Tools" />
       <recent name="C:\Users\xianmengxuanling\Desktop\star\Tools" />
       <recent name="C:\Users\xianmengxuanling\Desktop\star\pro_db" />
-      <recent name="C:\Users\xianmengxuanling\Desktop\star\file_db" />
-      <recent name="C:\Users\xianmengxuanling\Desktop\star\diedai" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\wyc\Desktop\star\templates\imgs_tem" />
@@ -298,7 +312,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.delDatabase">
+  <component name="RunManager" selected="Django server.star">
+    <configuration name="basicSetting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="star" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tools2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tools2/basicSetting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="createDatabase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="star" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,25 +403,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tools/initApp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="star" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tools/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -627,19 +641,19 @@
     <list>
       <item itemvalue="Django server.Unnamed" />
       <item itemvalue="Django server.star" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.delFilesExcept" />
       <item itemvalue="Python.initApp" />
       <item itemvalue="Python.createDatabase" />
       <item itemvalue="Python.delDatabase" />
+      <item itemvalue="Python.basicSetting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.basicSetting" />
         <item itemvalue="Python.delDatabase" />
         <item itemvalue="Python.createDatabase" />
         <item itemvalue="Python.initApp" />
         <item itemvalue="Python.delFilesExcept" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -666,18 +680,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="533" y="0" width="1292" height="926" extended-state="0" />
+    <frame x="912" y="282" width="1709" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003605" side_tool="true" weight="0.17624521" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19714285" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32970452" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29801324" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.27699783" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32950193" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996395" visible="true" weight="0.38050735" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32950193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23015384" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.062769234" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -687,9 +703,9 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" weight="0.18199609" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32950193" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,38 +720,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imgs_db/adminx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro_db/adminx-KUOZHAN.py" />
-    <entry file="file://$PROJECT_DIR$/img_db/adminx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/migrations/0001_initial.py" />
-    <entry file="file://$PROJECT_DIR$/xadmin/widgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/star/adminx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-482">
-          <caret selection-start-column="2" selection-end-line="50" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/c7ab6fe6/ef3a05c4-8867-4c97-a090-769e4d298e32/star.django_content_type" />
-    <entry file="dbDummy://dbtable:/c7ab6fe6/ef3a05c4-8867-4c97-a090-769e4d298e32/star.auth_user" />
     <entry file="file://$PROJECT_DIR$/file_db/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -771,13 +755,6 @@
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/django/contrib/admin/options.py" />
     <entry file="dbDummy://dbtable:/c7ab6fe6/ef3a05c4-8867-4c97-a090-769e4d298e32/star.pro_db_soft" />
     <entry file="file://$PROJECT_DIR$/pro_db/adminx.py" />
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xadmin/plugins/themes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -796,58 +773,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/star/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_db/migrations/ssss.txt" />
     <entry file="file://$PROJECT_DIR$/pro_db/migrations/ssss.txt" />
     <entry file="dbDummy://dbtable:/c7ab6fe6/ef3a05c4-8867-4c97-a090-769e4d298e32/star.img_db_img" />
-    <entry file="file://$PROJECT_DIR$/pro_db/views.py" />
     <entry file="file://$PROJECT_DIR$/Tools/delMedia_dir.py" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pymysql/err.py" />
     <entry file="file://$PROJECT_DIR$/../sam.bat" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test1_sys.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test2_sys.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test4_subprocess.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test3_subprocess.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test6_bypassUAC.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/Test5_pexpect.py" />
+    <entry file="file://$PROJECT_DIR$/Tools1_single/Test1_sys.py" />
+    <entry file="file://$PROJECT_DIR$/Tools1_single/Test2_sys.py" />
+    <entry file="file://$PROJECT_DIR$/Tools1_single/Test4_subprocess.py" />
+    <entry file="file://$PROJECT_DIR$/Tools1_single/Test6_bypassUAC.py" />
+    <entry file="file://$PROJECT_DIR$/Tools1_single/Test5_pexpect.py" />
     <entry file="file://$PROJECT_DIR$/Tools/test.py" />
-    <entry file="file://$PROJECT_DIR$/star/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3549">
-          <caret line="169" column="18" lean-forward="true" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/see.py" />
-    <entry file="file://$PROJECT_DIR$/Tools/delDatabase.py">
+    <entry file="file://$PROJECT_DIR$/Tools1_single/delDatabase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/createMedia.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/delMedia.py">
+    <entry file="file://$PROJECT_DIR$/Tools1_single/delMedia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-568" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/delFilesExcept.py">
+    <entry file="file://$PROJECT_DIR$/Tools1_single/delFilesExcept.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
@@ -857,17 +808,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/initApp.py">
+    <entry file="file://$PROJECT_DIR$/Tools1_single/createDatabase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
+        <state relative-caret-position="588">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools1_single/initApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/createDatabase.py">
+    <entry file="file://$PROJECT_DIR$/Tools2/delMedia.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        <state relative-caret-position="420">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/delFilesExcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/delDatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/createDatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a8acc021-c46b-4680-9881-e4babdd35ca7/schema/star/table/pro_db_a">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/createMedia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/initApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="169" column="18" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools2/basicSetting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ceshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/star/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/shiyan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/star/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_db/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="58" column="35" lean-forward="true" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
         </state>
       </provider>
     </entry>

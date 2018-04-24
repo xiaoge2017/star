@@ -5,12 +5,8 @@
 
 import pymysql
 pymysql.install_as_MySQLdb()
-db_host = '127.0.0.1'
-db_user = 'root1234'
-db_pw = 'root1234'
-db_name = 'star5678'
 
-def addDatabase(db_host,db_user,db_pw,db_name):
+def AddDatabase(db_host,db_user,db_pw,db_name):
     try:
         print('try')
         # 数据库连接
@@ -33,5 +29,3 @@ def addDatabase(db_host,db_user,db_pw,db_name):
     finally:
     # 关闭数据库连接
         conn.close()
-addDatabase(db_host, db_user, db_pw,db_name)
-print ('创建完了' + db_name + '数据库')

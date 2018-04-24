@@ -34,6 +34,9 @@ urlpatterns = [
 
     url(r'^index', pro_db.index),
     url(r'^login', pro_db.login),
+    url(r'^shiyan', pro_db.shiyan),
+
+
     # 页面
     url(r'^Get', pro_db.Get),
     url(r'^Add', pro_db.Add),

@@ -55,7 +55,8 @@ def get_current_function_name(request):
 # 首页
 def index(request):
     return (request, 'index.html')
-
+def shiyan(request):
+    return (request, 'shiyan.html')
 # ----------------------------登录----------------------------
 def login(request):
     if request.method=='POST':
