@@ -18,6 +18,8 @@ from pro.models import staff as modelStaff
 from pro.models import soft as modelSoft
 
 # Create your views here.
+from django.db.models.sql.query import LOOKUP_SEP
+from django.db.models.sql.constants import QUERY_TERMS
 
 # 打印字段名
 def printWord(request):

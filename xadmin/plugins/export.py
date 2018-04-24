@@ -224,8 +224,9 @@ class ExportPlugin(BaseAdminPlugin):
             content_type="%s; charset=UTF-8" % self.export_mimes[file_type])
 
         file_name = self.opts.verbose_name.replace(' ', '_')
+
         response['Content-Disposition'] = ('attachment; filename=%s.%s' % (
-            file_name, file_type)).encode('utf-8')
+                file_name, file_type)).encode('gbk')
 
         response.write(getattr(self, 'get_%s_export' % file_type)(context))
         return response
