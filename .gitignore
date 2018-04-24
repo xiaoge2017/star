@@ -1,3 +1,9 @@
 .idea
 media
 star/settings.py
+*.back
+*.pyc
+*.so
+*.egg-info
+dist
+bulid
