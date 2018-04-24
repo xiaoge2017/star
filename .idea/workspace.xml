@@ -6,15 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a63a7d49-c8a3-43c7-8c57-3f5ceb537ba5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tools2/databaseMigtation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forRequirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools2/basicSetting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools2/basicSetting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shiyan.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shiyan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xadmin/plugins/export.py" beforeDir="false" afterPath="$PROJECT_DIR$/xadmin/plugins/export.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,7 +67,17 @@
     <favorites_list name="star" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xadmin/plugins/themes.py" />
         <option value="$PROJECT_DIR$/pro_db/models.py" />
         <option value="$PROJECT_DIR$/templates/get_pro.html" />
         <option value="$PROJECT_DIR$/Tools/remove+files.py" />
@@ -183,6 +185,7 @@
         <option value="$PROJECT_DIR$/Tools2/databaseMigtation.py" />
         <option value="$PROJECT_DIR$/Tools2/basicSetting.py" />
         <option value="$PROJECT_DIR$/forRequirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -201,9 +204,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="93" />
-    <option name="y" value="21" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="830" />
+    <option name="y" value="176" />
     <option name="width" value="1437" />
     <option name="height" value="958" />
   </component>
@@ -222,11 +225,6 @@
             <path>
               <item name="star" type="b2602c69:ProjectViewProjectNode" />
               <item name="star" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="star" type="b2602c69:ProjectViewProjectNode" />
-              <item name="star" type="462c0819:PsiDirectoryNode" />
-              <item name="Tools2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -648,7 +646,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="800" width="1437" height="958" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003605" side_tool="true" weight="0.17624521" />
@@ -656,10 +655,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32950193" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32843792" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996395" weight="0.2313253" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30191258" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27642277" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48313254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20194384" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.16925351" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.21112311" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -712,7 +711,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="dbDummy://dbtable:/c7ab6fe6/ef3a05c4-8867-4c97-a090-769e4d298e32/star.pro_db_soft" />
     <entry file="file://$PROJECT_DIR$/pro_db/adminx.py" />
     <entry file="file://$PROJECT_DIR$/xadmin/plugins/themes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -949,6 +947,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
